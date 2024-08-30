@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **souravsahu70047@gmail.com**
 
-/** - 📄 Know about my experiences [https://drive.google.com/file/d/1OE27SM8HNNpT7K2ud6Ypdcj3pLKZu36J/view?usp=sharing](https://drive.google.com/file/d/1OE27SM8HNNpT7K2ud6Ypdcj3pLKZu36J/view?usp=sharing) **/
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sourav-kumar-sahu-51b444249" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sourav-kumar-sahu-51b444249" height="30" width="40" /></a>
